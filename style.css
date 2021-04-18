@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    width: 100%;
+}
+
+.logo img{
+    width: 100px;
+}
+
+.home{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+
+.quemsou{
+    width: 100%;
+    height: 100vh;
+    background-color:blue;
+}
+
+.projetos{
+    width: 100%;
+    height: 100vh;
+    background-color:chocolate;
+}
+
+.contatos{
+    width: 100%;
+    height: 100vh;
+    background-color:darkgreen ;
+}
